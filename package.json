@@ -1,7 +1,7 @@
 {
   "name": "ab-mysql",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "dependencies": {
-    "mysql": "2.15.0"
+    "mysql2": "2.3.*"
   }
 }
