@@ -1,4 +1,5 @@
-'use strict';
+import abMySQL from "./lib/index.js";
+import Database from "./lib/Database.js";
 
-
-module.exports = require('./lib');
+export default abMySQL;
+export { Database };

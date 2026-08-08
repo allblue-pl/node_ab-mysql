@@ -1,0 +1,11 @@
+{
+    "abDependencies": {
+        "@allblue/ts0": "https://github.com/allblue-pl/js_ts0"
+    },
+    "abTS": {
+        "tsconfig": ".",
+        "libs": [
+            "."
+        ]
+    }
+}

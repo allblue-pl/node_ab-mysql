@@ -1,7 +1,9 @@
 {
   "name": "ab-mysql",
+  "type": "module",
   "version": "0.0.2",
+  "main": "index.js",
   "dependencies": {
-    "mysql2": "2.3.*"
+    "mysql2": "3.23.*"
   }
 }
