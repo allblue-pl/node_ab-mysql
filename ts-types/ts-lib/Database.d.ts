@@ -9,8 +9,8 @@ declare class Database {
 }
 export default Database;
 export type DBConnectionInfo = {
-    host: "string";
-    database: "string";
-    user: "string";
-    password: "string";
+    host: string;
+    database: string;
+    user: string;
+    password: string;
 };
